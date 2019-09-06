@@ -168,6 +168,36 @@ a {
     justify-content: center;
     padding: 2%;
 }
+#one{
+    background-color: teal;
+}
+#two{
+    background-color:gold;
+}
+#three{
+    background-color: cadetblue;
+}
+#four{
+    background-color:coral;
+}
+#five{
+    background-color: crimson;
+}
+#six{
+    background-color:forestgreen;
+}
+#seven{
+    background-color: darkorchid;
+}
+#eight{
+    background-color:hotpink;
+}
+#nine{
+    background-color: indigo;
+}
+#teen{
+    background-color:dodgerblue;
+}
 /* display: flex; */
 /* flex-wrap: wrap; */
 /* justify-content: space-evenly; */
