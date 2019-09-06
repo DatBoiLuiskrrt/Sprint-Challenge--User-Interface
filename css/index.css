@@ -198,6 +198,51 @@ a {
 #teen{
     background-color:dodgerblue;
 }
+.about-header{
+    display: flex;
+    flex-direction: column;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+}
+.top-containerr{
+    display: flex;
+}
+.aaaa{
+    border-bottom: 1px dotted black;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+}
+.container{
+    margin-left: 15%;
+    /* padding-left: 20%; */
+    /* border: 1px solid black; */
+}
+.main-body{
+    display: flex;
+    margin-bottom: 2%;
+}
+.second-body{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+    border-bottom: 1px dotted black;
+}
+.ending{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2%; 
+}
+footer{
+    display: flex;
+    justify-content: flex-start;
+    width:60%;
+    margin-left: 14%;
+}
+
+
 /* display: flex; */
 /* flex-wrap: wrap; */
 /* justify-content: space-evenly; */
