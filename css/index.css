@@ -159,6 +159,11 @@ nav{
     
     /* border: 1px solid black; */
 }
+.header-index{
+    display: flex;
+    justify-content: flex-start;
+    padding-left:17%;
+}
 a {
     text-decoration: none;
     color: black;
@@ -166,9 +171,9 @@ a {
 .road{
     display: flex;
     /* justify-content: center; */
-    padding-left: 18%;
+    padding-left: 17%;
     width: 50%;
-    border: 1px solid black;
+    /* border: 1px solid red; */
     
 }
 #one{
@@ -212,7 +217,7 @@ a {
     display: flex;
     margin-bottom: 2%;
 }
-.aaaa{
+.item-inside-container{
     border-bottom: 1px dotted black;
     margin-left: 2%;
     margin-bottom: 2%;
