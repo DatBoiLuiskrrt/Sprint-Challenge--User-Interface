@@ -207,6 +207,7 @@ a {
 }
 .top-containerr{
     display: flex;
+    margin-bottom: 2%;
 }
 .aaaa{
     border-bottom: 1px dotted black;
