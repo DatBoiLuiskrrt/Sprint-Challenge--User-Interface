@@ -223,6 +223,8 @@ a {
 .main-body{
     display: flex;
     margin-bottom: 2%;
+    padding-bottom: 2%;
+    border-bottom: 1px dotted black;
 }
 .second-body{
     display: flex;
