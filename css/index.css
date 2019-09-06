@@ -144,3 +144,132 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+header{
+    display: flex;
+    flex-wrap: row;
+    width: 1200px;
+    justify-content: space-evenly; 
+    padding-left: 15%;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 600px;
+    
+    /* border: 1px solid black; */
+}
+.header-index{
+    display: flex;
+    justify-content: flex-start;
+    padding-left:17%;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.road{
+    display: flex;
+    /* justify-content: center; */
+    padding-left: 17%;
+    width: 50%;
+    /* border: 1px solid red; */
+    
+}
+#one{
+    background-color: teal;
+}
+#two{
+    background-color:gold;
+}
+#three{
+    background-color: cadetblue;
+}
+#four{
+    background-color:coral;
+}
+#five{
+    background-color: crimson;
+}
+#six{
+    background-color:forestgreen;
+}
+#seven{
+    background-color: darkorchid;
+}
+#eight{
+    background-color:hotpink;
+}
+#nine{
+    background-color: indigo;
+}
+#teen{
+    background-color:dodgerblue;
+}
+.about-header{
+    display: flex;
+    flex-direction: column;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+}
+.top-containerr{
+    display: flex;
+    margin-bottom: 2%;
+}
+.item-inside-container{
+    border-bottom: 1px dotted black;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+}
+.container{
+    margin-left: 15%;
+    /* padding-left: 20%; */
+    /* border: 1px solid black; */
+}
+.main-body{
+    display: flex;
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+    border-bottom: 1px dotted black;
+}
+.second-body{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+    border-bottom: 1px dotted black;
+}
+.ending{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2%; 
+}
+footer{
+    display: flex;
+    justify-content: space-evenly;
+    width:100%;
+    margin-left: 14%;
+}
+button{
+    display: flex;
+    /* margin: 6px; */
+    padding: 2%;
+    border: 2px solid black;
+    border-radius: 10%;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 30%;
+    
+
+
+}
+button:hover{
+    background-color: darkgrey;
+}
+
+/* display: flex; */
+/* flex-wrap: wrap; */
+/* justify-content: space-evenly; */
